@@ -6,3 +6,10 @@ Advantage of java
 Disvantage of java
 -
 - 
+
+
+float task :
+1 row : 1 left 2 right 3 left 
+2. row : 4 left 5 left 6 right
+3. row : 7 left 8 right 9 left
+4. row : 10 right 11 right 12 right
